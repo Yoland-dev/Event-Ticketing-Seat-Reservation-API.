@@ -1,1 +1,1 @@
-# Event-Ticketing-Seat-Reservation-API.
+# Event-Ticketing-Seat-Reservation-API
